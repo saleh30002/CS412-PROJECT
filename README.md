@@ -15,6 +15,7 @@ The repository has the data used in the python notebook along with the base note
 ```
 |
 |-data/
+|-plots/
 |-CS412Project.ipynb
 |-hw_score_predict.ipynb
 ```
