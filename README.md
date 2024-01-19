@@ -256,23 +256,23 @@ we have achieved in this project.
 
 1. Gradient Boosting
 
-   ![Alt text](plots\gradient_boosting.png)
+   ![Alt text](plots/gradient_boosting.png)
 
 2. Decision Tree
 
-   ![Alt text](plots\decision_tree.png)
+   ![Alt text](plots/decision_tree.png)
 
 3. K-NN
 
-   ![Alt text](plots\knn.png)
+   ![Alt text](plots/knn.png)
 
 4. Random Forest
 
-   ![Alt text](plots\random_forest.png)
+   ![Alt text](plots/random_forest.png)
 
 5. Neural Network
 
-   ![Alt text](plots\neural_network.png)
+   ![Alt text](plots/neural_network.png)
 
 ## Contributions
 
